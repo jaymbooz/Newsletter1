@@ -1,2 +1,2 @@
-# Newsletter1
-Newsletter Template - 4 Panel
+# Newsletter Templates
+Newsletter Layouts
